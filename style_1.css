@@ -1,0 +1,71 @@
+h2{
+  text-align:center;color:#E58FB5; font-size:30px; font-family:Arial;
+}
+img{align="center"}
+p{color:white}
+#blood{color:red}
+#brother{color:#ff00e6}
+#thanos{color:#c49fe0;font-size:50px;font-family:'Notable', sans-serif;}
+
+#f1 {
+  opacity: 1;
+  transition: 1s opacity;
+  text-align: center;
+}
+#f2 {
+  opacity: 1;
+  transition: 1s opacity;
+  text-align: center;
+}
+#f3 {
+  opacity: 1;
+  transition: 1s opacity;
+  text-align: center;
+
+}
+#f4 {
+  opacity: 1;
+  transition: 1s opacity;
+  text-align: center;
+
+}
+#f5 {
+  opacity: 1;
+  transition: 1s opacity;
+  text-align: center;
+
+}
+#f6 {
+  opacity: 1;
+  transition: 1s opacity;
+  text-align: center;
+
+}
+#f7 {
+  opacity: 1;
+  transition: 1s opacity;
+  text-align: center;
+
+}
+#f8 {
+  opacity: 1;
+  transition: 1s opacity;
+  text-align: center;
+
+}
+#f9 {
+  opacity: 1;
+  transition: 1s opacity;
+  text-align: center;
+
+}
+#f10 {
+  opacity: 1;
+  transition: 3s opacity;
+  text-align: center;
+}
+
+
+p {
+  text-align: center;
+}
